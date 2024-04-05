@@ -17,3 +17,5 @@ approximation, details = coeffs
 # To reconstruct the signal
 reconstructed_signal = pywt.idwt(approximation, details, wavelet)
 print(reconstructed_signal)
+
+print("this my first repo")
