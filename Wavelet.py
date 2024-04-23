@@ -19,4 +19,4 @@ reconstructed_signal = pywt.idwt(approximation, details, wavelet)
 print(reconstructed_signal)
 
 print("this my first repo")
-print("End of code")
+print("End of cod ")
